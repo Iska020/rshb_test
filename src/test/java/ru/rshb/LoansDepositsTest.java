@@ -2,7 +2,6 @@ package ru.rshb;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
-import ru.rshb.pages.BaseTest;
 import ru.rshb.pages.ConsumerLoanPage;
 import ru.rshb.pages.MainPage;
 import ru.rshb.pages.OnlineCalculatorPage;

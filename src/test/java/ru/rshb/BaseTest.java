@@ -1,9 +1,10 @@
-package ru.rshb.pages;
+package ru.rshb;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
+import ru.rshb.pages.BasePage;
 import ru.rshb.utils.ConfProperties;
 
 import java.time.Duration;
